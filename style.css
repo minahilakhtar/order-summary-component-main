@@ -37,7 +37,7 @@ body{
     margin-bottom: 20px;
 }
 .text-content p.subtital{
-    font-size: 16px;
+    font-size: 17px;
     margin-bottom: 26px;
     color: #8a8a8a;
 }
@@ -91,7 +91,7 @@ a.proceed-btn:hover {
     background-color: hsl(224, 23%, 55%);
 }
 a.cancel-btn{
-    color: hsl(224, 23%, 55%);
+    color: #465069;
     text-decoration: none;
 }
 
